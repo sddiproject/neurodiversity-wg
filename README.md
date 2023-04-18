@@ -1,49 +1,55 @@
-_This document is intended to be a template for working groups established under SDDI, to be used as the README.md file in its repository. All items in italics are descriptions of what context should be there; it is intended to be replaced by content._
+# Neurodiversity Working Group
 
-_The intention is that each WG has its own GitHub repo under the [SDDI organization](https://github.com/sddiproject)._
+## Goals
 
-# _Working group name_
+1. Identify needs of ND folks in software industry
+    1. Preparation
+    2. Recruitment
+    3. Onboarding
+    4. Retention
+    5. Promotion
+2. How do we train managers to be inclusive towards their ND employees?
+    6. What is the best management situation for ND folks? (e.g. co-managing)
+    7. Accommodations
+    8. Performance management
+3. Entire support system for ND people will be involved in their employment
+    9. E.g. Sometimes parents of autistic employees will call their manager. 
+    10. What does their support team look like and what services do they provide and can help with?
+4. How do you recruit ND people? Make these processes and tools more inclusive
+    11. Improve search tools
+    12. Help people to “read” ND resumes with common gaps.
+5. Strengths-based approach to understanding ND people and their superpowers. 
+    13. Focus on skills and activities and behaviors, not on labels.
+6. Collect community testimonials about their own ND experiences at school and work. 
+    14. How shall we recruit people to submit testimonials?
+        1. Personal networking.
+    15. Which industry will they come from?
+    16. Be specific about the goals of testimonials. 
+        2. Gain empathy and understanding for NTs and NDs. Psychological safety.
+    17. Make sure we have editing standards. 
+7. Resources for managers, employees, students. 
+8. Community support mailing list for ND people at work, maybe those having problems due to ND. 
+    18. Buddy system between ND and NTs in the workforce. 
 
-_Describe the purpose of the group in no more that 4-5 sentences._
+## Non-goals
 
-_Goals are the distinct outcomes that is to be anticipated from the working group, serving as a method for validating activities._
+1. We’re not a job matching service.
+2. We’re not a tool for diagnosing ND.
+3. We’re not addressing mental health. We’re not therapists.
 
-Goals of the WG are:
-
-1. _goal 1_
-2. ...
-
-_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time._
-
-Non-goals of the WG are:
-
-1. _non goal 1_
-2. ...
 
 ## Deliverables
 
-_provide a list of planned deliverables, or links to the deliverables. A best practice is to have a directory named [deliverables](deliverables) in the repo for hosting and managing deliverables._
+1. Create training materials for managers, employees, and students. 
+2. Community testimonial website.
 
 ## Communication
 
 This WG communicates on the following channels:
 
-- _link to mailing list_
-- _slack channel_
-- _any other channels_
-...
+- [wg-neurodiversity@lists.sddiproject.org ](https://lists.sddiproject.org/g/wg-neurodiversity)
+- [#wg-neurodiversity at slack.sddiproject.org](https://slack.sddiproject.org)
 
 ## Meetings
 
-See the [SDDI public calendar](https://lists.sddiproject.org/calendar). This WG meets _meeting day/time and frequency_. 
-
-_provide the conference call details_
-
-## In-person meetings
-
-_list if applicable, or skip if not_
-
-## Meeting notes
-
-Meeting notes, recordings, and any presentations made during WG meetings are available [here](meetings).
-
+See the [SDDI public calendar](https://lists.sddiproject.org/calendar). This WG meets the first Wednesday of each month at 1pm ET/10am PT. 
